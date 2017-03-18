@@ -1,5 +1,8 @@
 body {
 		background-image: url("/images/index-background.png");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
 }
 	#logo {
 	max-width: 50px;
