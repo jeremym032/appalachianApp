@@ -1,4 +1,7 @@
-#logo {
+body {
+		background-image: url("/images/index-background.png");
+}
+	#logo {
 	max-width: 50px;
 	margin-top: -8px;
 }
