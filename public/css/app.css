@@ -1,7 +1,9 @@
 body {
-		background-image: url("/images/index-background.png");
-		background-size: cover;
-		background-repeat: no-repeat;
+	background: url("/images/index-background.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 	#logo {
 	max-width: 50px;
